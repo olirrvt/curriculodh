@@ -1,0 +1,44 @@
+.container {
+    display: flex;
+    justify-content: center;
+    margin: 1rem;
+}
+
+.img-perfil {
+    border: solid;
+    border-color: aliceblue;
+    border-radius: 20rem;
+    display: flex;
+    justify-content: center;
+}
+
+.box-principal {
+    background: rgb(35, 23, 37);
+    padding: 5rem;
+    border-radius: 5rem;
+    margin-top: 5rem;
+    margin: 3rem
+}
+
+.titulo-do-curriculo{
+    color: aliceblue;
+    display: flex;
+   justify-content: center;
+}
+
+.artigo-1 {
+    padding: 2rem;
+    color: aliceblue;
+}
+
+.lista-principal {
+    padding: 2rem;
+}
+
+.background {
+    background: rgb(59, 5, 12)
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
